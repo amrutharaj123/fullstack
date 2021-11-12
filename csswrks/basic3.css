@@ -1,0 +1,12 @@
+h1{
+    color: cadetblue;
+}
+/* tag selctor h1 */
+/* id selector  #*/
+/* class selector . */
+#head1{
+    color: crimson;
+}
+.head2{
+    color:pink;
+}

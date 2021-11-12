@@ -1,0 +1,16 @@
+.sticky{
+    border: solid 1px black;
+    background-color: burlywood;
+    height: 100px;
+    width: 100px;
+    /* position: fixed; */
+    /* left: 200px; */
+    position: sticky;
+    top: 100px;
+}
+body{
+    /* background-color: crimson; */
+    height: 1000px;
+    background-image: url(./images/butterfly.jpg);
+    background-size: cover;
+}

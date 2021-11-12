@@ -1,0 +1,123 @@
+div{
+    border:solid black 1px;
+    width: 50px;
+    height: 100px;
+}
+#b1{
+    background-color: blue;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#b2{
+    background-color:green;
+    margin-left: 156px;
+    margin-top: -102px;
+}
+ #b3{
+background-color:red;
+    margin-left: 216px;
+    margin-top: -102px;
+ } 
+ #b4{
+ background-color:rgb(255, 0, 149);
+    margin-left: 276px;
+    margin-top: -102px;
+ } 
+#b5{
+     background-color:rgb(208, 255, 0);
+           margin-left: 335px;
+           margin-top: -102px;
+        }
+        #b6{
+            background-color:orange;
+           margin-left: 23px;
+           margin-top: -26px;
+            
+        }
+        #b7{
+            background-color:palevioletred;
+            margin-left: 79px;
+            margin-top: -102px;
+             
+             
+        }
+        #b8{
+            background-color:rgb(112, 216, 152);
+            margin-left: 138px;
+            margin-top: -102px;
+             
+        }
+        #b9{
+            background-color:tomato;
+            margin-left: 200px;
+            margin-top: -102px;
+             
+        }
+        #b10{
+            background-color:brown;
+            margin-left: 256px;
+            margin-top: -102px;
+             
+        }
+        #b11{
+            background-color:cadetblue;
+            margin-left: 313px;
+            margin-top: -102px;
+             
+        }
+        #b12{
+            background-color:rgb(235, 186, 52);
+            margin-left: 373px;
+            margin-top: -102px;
+             
+        }
+        #b13{
+            background-color:rgb(66, 245, 203);
+            margin-left: -3px;
+            margin-top: -27px;
+             
+        }
+        #b14{
+            background-color:rgb(61, 71, 69);
+            margin-left: 53px;
+            margin-top: -101px;
+             
+        }
+        #b15{
+            background-color:rgb(177, 165, 212);
+            margin-left:110px;
+            margin-top: -101px;
+             
+        }
+        #b16{
+            background-color:rgb(232, 230, 237);
+            margin-left:167px;
+            margin-top: -101px;
+             
+        }
+        #b17{
+            background-color:rgb(98, 117, 90);
+            margin-left:226px;
+            margin-top: -101px;
+             
+        }
+        #b18{
+            background-color:rgb(132, 199, 103);
+            margin-left:284px;
+            margin-top: -101px;
+        }
+        #b19{
+            background-color:rgb(199, 183, 103);
+            margin-left:343px;
+            margin-top: -101px;
+        }
+        #b20{
+            background-color:rgb(69, 60, 15);
+            margin-left:401px;
+             margin-top: -101px;
+        }
+        #b21{
+            background-color:rgb(141, 168, 17);
+            margin-left:459px;
+             margin-top: -101px;
+        }

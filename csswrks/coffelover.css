@@ -1,0 +1,60 @@
+#nav{
+    background-image: url("./images/cofecvr.jpg");
+    background-size: cover;
+    width: 50%;
+    height: 287px;
+
+}
+
+h1{
+
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    color: white;
+    height: 20px;
+}
+#nav{
+     width: 100%;
+    background-color: black;
+     float: right;
+}
+#h{
+    left: 5%;
+}
+#a{
+    left: 10%;
+}
+#p{
+    font-family:'Qahiri', sans-serif;;
+    font-size: medium;
+    border:solid whitesmoke 3px;
+   height: 125pxpx; 
+   width: 606px;
+   color:black;
+   background-image: url("./images/cftqt2.jpg");
+}
+body{
+    background-color: gray;
+}
+div{
+    float:left;
+    
+    }
+    img{
+        width: 408px;
+        height: 164px;
+        float: left;
+    }
+    #i{
+        width: 205px;
+        height:154px;
+        float: left;
+    }
+    h2{
+        background-color: indigo;
+        color: white;
+        width: 100%;
+        text-align: center;
+        margin: left 100px; ;
+    
+    }

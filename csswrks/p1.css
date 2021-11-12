@@ -1,0 +1,13 @@
+div{
+    border: solid black;
+    width: 200px;
+    padding-left: 50px;
+    color: brown;
+}
+#a1{
+    margin-top:100px;
+}
+/* descendent selector */
+div p{
+    color:brown;
+}

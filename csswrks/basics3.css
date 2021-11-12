@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=IM+Fell+English+SC&display=swap');
+
+h1{
+    /* hue saturation lightness(hsl) */
+    color:hsl(225, 90, 48);
+
+    text-decoration: underline;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#head1{
+    color:#eb4c34;
+    font-family: 'IM Fell English SC', serif;
+}
+.head2{
+    color: rgb(14, 227, 120);
+}
+p{
+    font-size: 20px;
+    font-family: 'Festive', cursive;
+
+}
