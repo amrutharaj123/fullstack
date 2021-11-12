@@ -1,12 +1,13 @@
-var a=5
-var b=6
-if (a>b){
-    console.log( `${b}is greater`)
-    }
-    else if(a==b){
-        console.log("equal")
+var num1=5
+var num2=6
+// if (num1>num2){
+//     console.log( `${num2}is greater`)
+//     }
+//     else if(num1==num2){
+//         console.log("equal")
 
-    }
-    else{
-        console.log( `${b}is greater`)
-    }
+//     }
+//     else{
+//         console.log( `${num2}is greater`)
+//     }
+console.log(num1>num2?num1:num2);
